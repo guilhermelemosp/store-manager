@@ -10,11 +10,14 @@
 
 </br>
   
-  <summary>📝 Habilidades a serem trabalhadas </summary>
+<summary>📝 Habilidades a serem trabalhadas </summary>
 
 - Interação com um banco de dados relacional MySQL;
+
 - Implementação de uma API utilizando arquitetura em camadas;
+
 - Criação de validações para os dados recebidos pela API;
+
 - Elaboração de testes para APIs, garantindo assim a implementação dos endpoints;
 
 </br>
