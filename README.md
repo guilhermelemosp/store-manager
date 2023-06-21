@@ -8,18 +8,16 @@
 
 - Desenvolvido testes para garantir as funcionalidade das implementações.
 
-</details>
+</br>
   
-<details>
   <summary>📝 Habilidades a serem trabalhadas </summary>
 
-- Interaçao com um banco de dados relacional MySQL;
+- Interação com um banco de dados relacional MySQL;
 - Implementação de uma API utilizando arquitetura em camadas;
 - Criação de validações para os dados recebidos pela API;
 - Elaboração de testes para APIs, garantindo assim a implementação dos endpoints;
 
-</details>
-
+</br>
 
 ## Orientações
 
